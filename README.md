@@ -1,4 +1,3 @@
-<img width="1858" height="915" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/67716a87-ea0f-48f8-942e-2d546cd31e2f" /># Laptop-data-Visualization
 An Excel-based dashboard for analyzing laptop data, featuring visualizations of processor brands, GPU brands, storage types, operating systems, screen sizes, and brand distributions. Built using pivot tables, charts, and filters to provide interactive insights.
 
 📁 Features
@@ -15,4 +14,5 @@ An Excel-based dashboard for analyzing laptop data, featuring visualizations of 
 • Storage type distribution
 • size distribution
 
-https://1drv.ms/i/c/3d00aa50fbba3fef/EbpLFUfbaO9BlkiG51-BQmEBARMn3baKPco6ixCOnn8_hw?e=dmCD7P
+<img width="1858" height="915" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/67716a87-ea0f-48f8-942e-2d546cd31e2f" /># Laptop-data-Visualization
+
