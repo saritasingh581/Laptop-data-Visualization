@@ -36,7 +36,7 @@ This Excel-based dashboard is designed to help users explore and analyze key spe
 🔍 5. Preview
 
 📸 Dashboard Preview
-<img width="1858" height="915" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/67716a87-ea0f-48f8-942e-2d546cd31e2f" /># Laptop-data-Visualization
+<img width="1858" height="915" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/67716a87-ea0f-48f8-942e-2d546cd31e2f" />
 
 💡 6. Additional Highlights  
 
