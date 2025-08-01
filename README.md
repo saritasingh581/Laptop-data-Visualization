@@ -28,15 +28,15 @@ This Excel-based dashboard is designed to help users explore and analyze key spe
 • Explore different sheets for category-wise visualizations.  
 
 📂 4. Files Included  
-
-• Laptop_Dashboard.xlsx – Main Excel dashboard  
+ 
 • README.md – Project description and usage instructions  
+• dashboard_demo.mp4 - Video demo of the excel dashboard in action
 • screenshot.png – Visual preview of the dashboard  
 
 🔍 5. Preview
 
 📸 Dashboard Preview Screenshot
-<img width="1858" height="915" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/67716a87-ea0f-48f8-942e-2d546cd31e2f" />
+https://1drv.ms/i/c/3d00aa50fbba3fef/EbpLFUfbaO9BlkiG51-BQmEBARMn3baKPco6ixCOnn8_hw?e=EffRKI
 
 💡 6. Additional Highlights  
 
