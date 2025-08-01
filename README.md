@@ -16,20 +16,22 @@ An Excel-based dashboard for analyzing laptop data, featuring visualizations of 
 •  Storage type distribution  
 •  size distribution  
 
-🧩 1. Project Overview
+🧩 1. Project Overview  
+
 This Excel-based dashboard is designed to help users explore and analyze key specifications of laptops using interactive visualizations and pivot tables. It provides insights into market trends by brand, processor, GPU, storage types, and other core features. Ideal for quick decision-making and data exploration without requiring coding knowledge.
 
-🛠️ 2. How to Use
+🛠️ 2. How to Use  
 
-• Open the Excel file in Microsoft Excel (2016 or later recommended).
-• Use the slicers/filters to select specific brands, OS types, GPU, etc.
-• Hover over charts for detailed tooltips and comparisons.
-• Explore different sheets for category-wise visualizations.
+• Open the Excel file in Microsoft Excel (2016 or later recommended).  
+• Use the slicers/filters to select specific brands, OS types, GPU, etc.  
+• Hover over charts for detailed tooltips and comparisons.  
+• Explore different sheets for category-wise visualizations.  
 
-📂 4. Files Included
-• Laptop_Dashboard.xlsx – Main Excel dashboard
-• README.md – Project description and usage instructions
-• screenshot.png – Visual preview of the dashboard
+📂 4. Files Included  
+
+• Laptop_Dashboard.xlsx – Main Excel dashboard  
+• README.md – Project description and usage instructions  
+• screenshot.png – Visual preview of the dashboard  
 
 🔍 5. Preview
 
