@@ -9,12 +9,12 @@ An Excel-based dashboard for analyzing laptop data, featuring visualizations of 
 
 📌 Analyzed Categories
 
-• Processor Brand (e.g., Intel, AMD)  
-• GPU Brand (e.g., NVIDIA, Intel, AMD)  
-• Laptop Brand distribution  
-• Operating System distribution  
-• Storage type distribution  
-• size distribution  
+•  Processor Brand (e.g., Intel, AMD)  
+•  GPU Brand (e.g., NVIDIA, Intel, AMD)  
+•  Laptop Brand distribution  
+•  Operating System distribution  
+•  Storage type distribution  
+•  size distribution  
 
 🧩 1. Project Overview
 This Excel-based dashboard is designed to help users explore and analyze key specifications of laptops using interactive visualizations and pivot tables. It provides insights into market trends by brand, processor, GPU, storage types, and other core features. Ideal for quick decision-making and data exploration without requiring coding knowledge.
