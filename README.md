@@ -2,10 +2,10 @@ An Excel-based dashboard for analyzing laptop data, featuring visualizations of 
 
 📁 Features
 
-✅ Dynamic charts and graphs
-✅ Pivot tables for interactive analysis
-✅ Clean layout for easy interpretation
-✅ Filters to explore specific segments
+✅ Dynamic charts and graphs  
+✅ Pivot tables for interactive analysis  
+✅ Clean layout for easy interpretation  
+✅ Filters to explore specific segments  
 
 📌 Analyzed Categories
 • Processor Brand (e.g., Intel, AMD)
