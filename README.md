@@ -30,8 +30,8 @@ This Excel-based dashboard is designed to help users explore and analyze key spe
 📂 4. Files Included  
  
 • README.md – Project description and usage instructions  
-• dashboard_demo.mp4 - Video demo of the excel dashboard in action
-• screenshot.png – Visual preview of the dashboard  
+• dashboard_demo.mp4 - Video demo of the excel dashboard in action  
+• screenshot.png – Visual preview of the dashboard   
 
 🔍 5. Preview
 
