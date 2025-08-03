@@ -32,7 +32,7 @@ This Excel-based dashboard is designed to help users explore and analyze key spe
 • README.md – Project description and usage instructions  
 • dashboard_demo.mp4 - Video demo of the excel dashboard in action  
 • screenshot.png – Visual preview of the dashboard       
-• The dashboard uses `laptop_data.csv` as the source file.  
+• `laptop_data.csv`- Source dataset file   
 
 🔍 5. Preview
 
